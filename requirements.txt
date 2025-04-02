@@ -1,11 +1,10 @@
 fastapi
 uvicorn
-requests
 python-dotenv
+requests
 pydantic
 langchain
 langchain-community
 chromadb
 huggingface-hub
 sentence-transformers
-uvicorn
