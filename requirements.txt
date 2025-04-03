@@ -8,3 +8,4 @@ langchain-community
 chromadb
 huggingface-hub
 sentence-transformers
+python-multipart
